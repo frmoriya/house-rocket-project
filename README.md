@@ -155,9 +155,14 @@ Total apartment house with potential profit : 3827 unit
 
 Purchase = 3827 apartment house
 
-|  Purchase Value  |   Profit Value   |
+| Purchase Value | Profit Value |
+| 1506345173.00 | :--- |
+| :--- | :--- |
 
-|  Us 1506345173.0 | Us 431377777.70  | 
+**************************************
+| Purchase Value | Profit Value |
+
+| Us 1506345173.0 | Us 431377777.70 | 
 
 
 | season    | purchase     |     sales     |
