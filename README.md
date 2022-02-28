@@ -78,9 +78,7 @@ Deliverables:
 - The database is available on the Kaggle website. The Data refers to apartment house for sale in Country King, USA.
 - CSV file: "kc_house_data.csv" 
 
-[Dataset from Kaggle] : https://www.kaggle.com/harlfoxem/housesalesprediction/metadata
-
-![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)(https://www.kaggle.com/harlfoxem/housesalesprediction/metadata)
+  https://www.kaggle.com/harlfoxem/housesalesprediction/metadata
 
 
 ### Step 02: Cleaning Data:
