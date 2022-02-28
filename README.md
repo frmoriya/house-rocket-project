@@ -42,21 +42,24 @@ What are the slowest months for real estate?
 
 The number of homes sold usually increase in the spring season. The sales of houses between February and March increase 24%, followed by the busiest months of May, June, July and August. In contrast, the slowest months are November, December, January and February.
 
-To identify the months of seasonality,we calculate the weeks/month.
+To identify the months of seasonality, we calculate the weeks/month.
 
-January = 4 Weeks | February = 5 Weeks | March = 5 Weeks | April = 4 Weeks | May = 4 Weeks | June = 5 Weeks |    
-July = 4 Weeks | August = 5 Weeks | September = 4 Weeks | October = 4 Weeks | November = 5 Weeks | December = 4 Weeks
+| January = 4 Wk | February = 5 Wk | March = 5 Wk | April = 4 Wk | May = 4 Wk | June = 5 Wk |
+ ---| --- | --- | --- | --- | --- |
+|July = 4 Wk | August = 5 Wk | September = 4 Wk | October = 4 Wk | November = 5 Wk | December = 4 Wk |
 
 
 Weeks:
 
-|......... 1 ......... - ...... 8 ..... - ...... 13 .....|... 14 ...-... 22 ...-.. 26 ..|..27.. - .. 35 ... - ... 42 ...|......... 43 ....... - .....48..... - ........ 54 ........|
 
-| December - January - February | March - April - May | June - July - August | September - October - November |
+|  Winter | Spring | Summer | Fall |
+| :---: | :---: | :---: | :---: |
+| December-January-February | March-April-May | June-July-August| September-October-November |
+| ... 1 ... - ... 8 ... - ... 13 ... | ... 14 ... - ... 22 ... - ... 26 ... | ...27... - ... 35 ... - ... 42 ... | ... 43 ... - ... 48 ... - ... 54 ... |
+| - More Cheaper | More Cheaper | More Expensive | More Expensive |
 
-|------------- Winter --------------|------- Spring -------|------ Summer -------|------------------ Fall ----------------|
 
-|------------------- More Cheaper -----------------------|-------------------- More Expensive ------------------------|
+
 
 
 
@@ -77,6 +80,9 @@ Deliverables:
 - Provide the solution in the cloud
 
 ## Phases to development
+
+
+
 
 ### Step 01. Data Collect:
 
@@ -153,27 +159,17 @@ The solution is available on [<img alt="Heroku" src="https://img.shields.io/badg
 
 Total apartment house with potential profit : 3827 unit
 
-Purchase = 3827 apartment house
-
-| Purchase Value | Profit Value |
-| 1506345173.00 | :--- |
-| :--- | :--- |
-
-**************************************
-| Purchase Value | Profit Value |
-
-| Us 1506345173.0 | Us 431377777.70 | 
+| Purchase Value($) | Profit Value($) |
+| :---: | :---: |
+| U$ 1506345173.00 | U$ 431377777.70 |
 
 
-| season    | purchase     |     sales     |
-
-|  fall     |  248970872.0 |  316192104.8  |
-
-|  spring   |  462116975.0 |  598954956.9  |
-
-|  summer   |  542279412.0 |  695968150.8  |
-
-|  winter   |  252977914.0 |  326607738.2  |
+| Season    | Purchase($) | Sales($) |
+| :---: | :---: | :---: |
+| fall | 248970872.00 | 316192104.80 |
+| spring | 462116975.00 | 598954956.90  |
+| summer | 542279412.00 | 695968150.80  |
+| winter | 252977914.00 | 326607738.20 |
 
 
 Recomendation:
