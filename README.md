@@ -49,19 +49,11 @@ To identify the months of seasonality, we calculate the weeks/month.
 |July = 4 Wk | August = 5 Wk | September = 4 Wk | October = 4 Wk | November = 5 Wk | December = 4 Wk |
 
 
-Weeks:
-
-
 |  Winter | Spring | Summer | Fall |
 | :---: | :---: | :---: | :---: |
 | December-January-February | March-April-May | June-July-August| September-October-November |
 | ... 1 ... - ... 8 ... - ... 13 ... | ... 14 ... - ... 22 ... - ... 26 ... | ...27... - ... 35 ... - ... 42 ... | ... 43 ... - ... 48 ... - ... 54 ... |
 | - More Cheaper | More Cheaper | More Expensive | More Expensive |
-
-
-
-
-
 
 # 3. Business Assumptions
 
@@ -81,9 +73,6 @@ Deliverables:
 
 ## Phases to development
 
-
-
-
 ### Step 01. Data Collect:
 
 - The database is available on the Kaggle website. The Data refers to apartment house for sale in Country King, USA.
@@ -91,9 +80,8 @@ Deliverables:
 
 [Dataset from Kaggle] : https://www.kaggle.com/harlfoxem/housesalesprediction/metadata
 
-![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
+![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)(https://www.kaggle.com/harlfoxem/housesalesprediction/metadata)
 
-https://github.com/frmoriya/house-rocket-project/blob/main/jpy_notebook/kc_house_data.csv
 
 ### Step 02: Cleaning Data:
 
@@ -200,13 +188,15 @@ Exploratory data analysis (EDA) identified the insights below:
     The cheapest zipcode is 98023, and total average values is U$ 89000.00 .
     The most expensive zipcode is 98102, and the highest house is Us 7700000.00 .
 
-
-# 10. Lessons Learned
-
-
-# 11. Next Steps to improve
+# 10. Next Steps to improve
 - Address localization improvement
 - Improvement the web site with news features
+
+# 11. Technologies
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # 12. Author
 
